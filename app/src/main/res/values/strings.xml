@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Amigo</string>
+    <string name="title_activity_confirmation">ConfirmationActivity</string>
+    <string name="payment_amount">Payment Amount :</string>
+    <string name="payment_id">Payment Id :</string>
+    <string name="status">Status :</string>
+</resources>

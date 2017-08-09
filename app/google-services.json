@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1025456048039",
+    "firebase_url": "https://amigo-17e94.firebaseio.com",
+    "project_id": "amigo-17e94",
+    "storage_bucket": "amigo-17e94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025456048039:android:78473c85de6d23e4",
+        "android_client_info": {
+          "package_name": "labrat.com.amigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025456048039-4n872ieijmea1b78os2h337ubeeoodo9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "labrat.com.amigo",
+            "certificate_hash": "adf1030f969cbb8befebc76c525aaf45d6f29ce9"
+          }
+        },
+        {
+          "client_id": "1025456048039-242grvsg4sfbrl4dvemrn8n09n5pmeqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgZdPuukNS0il6rUtBfcpvQ9C3pyqTF_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025456048039-242grvsg4sfbrl4dvemrn8n09n5pmeqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
